@@ -1,7 +1,7 @@
 # NBA Data Science Project
 
 # Overview
-This repository contains a data science project analyzing NBA data. The project aims to perform data preprocessing and cleaning in Jupyter Notebook, create data visualizations in Tableau (if applicable), and implement regression/machine learning models using scikit-learn.
+This repository contains a data science project analyzing NBA data. The project aims to perform data preprocessing and cleaning in Jupyter Lab, create data visualizations in Tableau, and implement regression/machine learning models using scikit-learn.
 
 # Project Structure
 Preprocessing.ipynb: Jupyter Notebook containing the data preprocessing and cleaning steps.
@@ -13,7 +13,7 @@ modern_seasons.csv: Dataset containing NBA season statistics (modern era).
 seasons.csv: Dataset containing NBA season statistics (since 1947).
 
 # Coming soon:
-Visualization: Directory containing Tableau visualizations (if applicable).
+Visualization: Directory containing Tableau visualizations.
 
 Regression: Jupyter Notebook for regression analysis using scikit-learn.
 
