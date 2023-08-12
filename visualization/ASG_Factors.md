@@ -7,4 +7,4 @@ As a preliminary check, I produced a few visualizations in Tableau to gain insig
 ## Visualizations
 
 ### Usage Percentage vs Minutes Per Game (Scatterplot)
-![Usage Percentage vs Minutes Per Game](https://user-images.githubusercontent.com/108153124/260263092-0c1d690f-4f59-430d-8368-31dfc0839d80.png)
+<img src="[https://example.com/images/usage_vs_mpg.png](https://user-images.githubusercontent.com/108153124/260263092-0c1d690f-4f59-430d-8368-31dfc0839d80.png)https://user-images.githubusercontent.com/108153124/260263092-0c1d690f-4f59-430d-8368-31dfc0839d80.png" alt="Usage Percentage vs Minutes Per Game" width="300" height="200">
