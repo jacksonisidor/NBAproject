@@ -7,7 +7,7 @@ As a preliminary check, I produced a few visualizations in Tableau to gain insig
 ## Visualizations
 
 ### Usage Percentage vs Minutes Per Game (Scatterplot)
-<img src="[https://example.com/images/usage_vs_mpg.png](https://user-images.githubusercontent.com/108153124/260263092-0c1d690f-4f59-430d-8368-31dfc0839d80.png)https://user-images.githubusercontent.com/108153124/260263092-0c1d690f-4f59-430d-8368-31dfc0839d80.png" alt="Usage Percentage vs Minutes Per Game" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/108153124/260263092-0c1d690f-4f59-430d-8368-31dfc0839d80.png" alt="Usage Percentage vs Minutes Per Game" width="300" height="200">
 
   - **Description:** This scatterplot illustrates how Usage Percentage (Usg%) and Minutes Per Game (MPG) for relate to all-star selections for NBA players of the past two seasons. Both of these statistics can be misleading with a small sample size, so I filtered for only the players that havef played at least 30 games. 
   - **Significance:** The visualization helps us understand how often a player is involved in their team's offensive plays (Usg%) and how much they are on the court (MPG) to establish their role to the team. 
