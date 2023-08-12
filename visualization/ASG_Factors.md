@@ -13,3 +13,12 @@ As a preliminary check, I produced a few visualizations in Tableau to gain insig
   - **Significance:** The visualization helps us understand how often a player is involved in their team's offensive plays (Usg%) and how much they are on the court (MPG) to establish their role to the team. 
   - **Insights:** Players in the top right corner of the scatterplot have high Usg% and MPG, indicating that they spend a significant amount of time on the court, and are very involved while out there. 
   - **Analysis:** The concentration of All-Star players in the top right corner suggests that All-Stars are often heavily relied upon by their teams in terms of both usage and playing time.
+
+### Offensive Box Plus-Minus vs Defensive Box Plus-Minus (Scatterplot)
+
+<img src="https://user-images.githubusercontent.com/108153124/260263141-2b703c40-8012-4b11-9548-208e20d116ba.png" alt="Usage Percentage vs Minutes Per Game" width="400" height="500">
+
+- Description of the visualization and its significance.
+- Insights gained from the visualization.
+- Brief analysis of any patterns or trends observed.
+- Note on any filters used and their impact on the analysis.
