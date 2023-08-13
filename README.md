@@ -1,5 +1,7 @@
 # NBA Data Science Project
-
+##GOAL:
+- Predict the next class of NBA Hall of Famers and assign a percent chance of making the Hall of Fame to every active player.
+- Predict the NBA all-stars of any given year based on season statistics. Use the model in February 2024 to predict next seasons all-stars.
 # Overview
 This repository contains a data science project analyzing NBA data. The project aims to tackle much of the data science process, including performing data preprocessing and cleaning with pandas, creating visualizations in Tableau, and implementing regression and machine learning models using scikit-learn.
 All original data files used are from Sumitro Datta on Kaggle as seen in the 'preprocessing.ipynb' file. The csv files in the 'Data' folder are the outputted files from my preprocessing that are used in all of the analysis and models. 
@@ -22,7 +24,6 @@ All original data files used are from Sumitro Datta on Kaggle as seen in the 'pr
 - Dataset containing NBA season statistics (since 1947).
 
 # Coming soon:
-Visualization: Directory containing Tableau visualizations.
 
 Regression: Jupyter Notebook for regression analysis using scikit-learn.
 
