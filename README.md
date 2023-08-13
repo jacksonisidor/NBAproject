@@ -1,32 +1,31 @@
 # NBA Data Science Project
-## GOAL:
-- Predict the next class of NBA Hall of Famers and assign a percent chance of making the Hall of Fame to every active player.
-- Predict the NBA all-stars of any given year based on season statistics. Use the model in February 2024 to predict next seasons all-stars.
-# Overview
-This repository contains a data science project analyzing NBA data. The project aims to tackle much of the data science process, including performing data preprocessing and cleaning with pandas, creating visualizations in Tableau, and implementing regression and machine learning models using scikit-learn.
-All original data files used are from Sumitro Datta on Kaggle as seen in the 'preprocessing.ipynb' file. The csv files in the 'Data' folder are the outputted files from my preprocessing that are used in all of the analysis and models. 
 
-# Project Structure
-#### preprocessing.ipynb: 
-- Jupyter Notebook containing the data preprocessing and cleaning steps.
+## Goal
+The primary objectives of this data science project are:
+- Predicting the next class of NBA Hall of Famers and assigning a percentage chance of making the Hall of Fame to each active player.
+- Predicting NBA all-stars for a given year based on their season statistics. The model will be used in February 2024 to predict next season's all-stars.
 
-#### 'visualization' Folder:
-- ASG_Factors.md containing visualizations of season statistics and their relationship with all-star selections.
-- HOF_Factors.md containing visualizations of career statistics and their relationship with Hall of Fame status.
+## Overview
+This repository contains a comprehensive data science project that delves into the analysis of NBA data. The project encompasses various stages of the data science pipeline, including data preprocessing and cleaning using pandas, creating insightful visualizations using Tableau, and implementing advanced regression and machine learning models with scikit-learn.
 
-#### careers.csv:
-- Dataset containing NBA players' career statistics.
+## Data Sources
+The original data files utilized in this project are sourced from Sumitro Datta's dataset on Kaggle. The 'preprocessing.ipynb' file contains the steps taken to preprocess and clean the data. The resulting CSV files, located in the 'Data' folder, are then employed for subsequent analysis and modeling.
 
-#### modern_seasons.csv: 
-- Dataset containing NBA season statistics (modern era).
+## Project Structure
+- `preprocessing.ipynb`: A Jupyter Notebook outlining the meticulous data preprocessing and cleaning steps undertaken.
+- `visualization` Folder:
+  - `ASG_Factors.md`: Visualizations showcasing the relationship between season statistics and all-star selections.
+  - `HOF_Factors.md`: Visualizations illustrating the link between career statistics and Hall of Fame status.
+- `careers.csv`: A dataset encompassing NBA players' career statistics.
+- `modern_seasons.csv`: A dataset containing NBA season statistics from the modern era.
+- `seasons.csv`: A dataset comprising NBA season statistics since 1947.
 
-#### seasons.csv: 
-- Dataset containing NBA season statistics (since 1947).
+## Coming soon
+I am actively working on the following components to provide a more comprehensive analysis:
+- `Regression.ipynb`: A Jupyter Notebook focusing on in-depth regression analysis using scikit-learn.
+- `Predictions.ipynb`: A Jupyter Notebook detailing machine learning predictive models using scikit-learn.
+- `Clustering.ipynb`: A Jupyter Notebook covering machine learning clustering analysis with scikit-learn.
 
-# Coming soon:
+Stay tuned for more updates as I delve deeper into the exciting world of NBA data analysis
 
-Regression: Jupyter Notebook for regression analysis using scikit-learn.
 
-Predictions: Jupyter Notebook for machine learning predictive models using scikit-learn
-
-Clustering: Jupyter Notebook for machine learning clustering analysis using scikit-learn
