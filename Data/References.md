@@ -16,4 +16,5 @@ Throughout the course of this project, a variety of tools and libraries have bee
 - **Python:** The primary programming language used for data analysis and modeling.
 - **Pandas:** A data manipulation library in Python, utilized for data preprocessing and aggregation.
 - **Tableau:** A data visualization tool employed to create meaningful visual representations of the data.
+- **Matplotlib and Seaborn**: Python libraries for creating meaningful visualizations and insightful plots.
 - **scikit-learn:** A machine learning library used for building predictive models.
