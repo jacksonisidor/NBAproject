@@ -6,6 +6,15 @@ As a preliminary check, I produced a few visualizations in Tableau to gain insig
 
 ## Visualizations
 
+### Vorp (Scatterplot)
+<img src="https://imgur.com/1BObxWE" alt="VORP Relationship with ASG" width="400" height="500">
+
+  - **Description:** This scatterplot illustrates the relationship between Value Over Replacement Player (VORP) and all-star status for all NBA players throughout league history. This is one of my favorite statistics and I expect it to be an important factor in predicting all-star games. This metric directly determines a players value added to their team compared to being replaced by another player. The x-axis 'Count', which is basically just each players index. I did this to spread out the data points and make it more clear. The important information is the vertical placement and the color of the points. I filtered for seasons from 1973 and on because that is the year the stastic began tracking. 
+  - **Significance:** The visualization helps us understand not only how good a team is with the player, but the difference between their value and a replacement players value, which shows clearly how much they bring to the team. 
+  - **Insights:** Players higher on the chart have a larger impact relative to the replacement-level. This directly indicates the most valuable players in the NBA, and this is important because you would expect all-stars players to be irreplacable and much better than replacement-level. 
+  - **Analysis:** As expected,the top of the graph is exclusively all-stars, indicating that VORP should be a strong factor in determining all-stars. 
+
+
 ### Usage Percentage vs Minutes Per Game (Scatterplot)
 <img src="https://user-images.githubusercontent.com/108153124/260263092-0c1d690f-4f59-430d-8368-31dfc0839d80.png" alt="Usage Percentage vs Minutes Per Game" width="400" height="500">
 
