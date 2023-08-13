@@ -27,17 +27,18 @@ As expected,the top of the graph is exclusively all-stars, indicating that VORP 
 The concentration of All-Star players in the top right corner suggests that All-Stars are often heavily relied upon by their teams in terms of both usage and playing time.
 
 #### Offensive Box Plus-Minus and Defensive Box Plus-Minus
-- The scatterplot below depicts the relationship Offensive Box Plus Minus (OBPM) and Defensive Box Plus Minus (DBPM) have with all-star selections for NBA players of the past two seasons. Both of these statistics can be misleading with a small sample size, so I filtered for only the players that havef played at least 30 games.
-- Offensive/Defensive BPM measures a players impact based on the teams performance while they are on the court (in terms of points). This can help determine how valuable a players offensive impact, defensive impact, or both contribute to their all-star status. Players in the top right corner of the scatterplot have high OBPM and DBPM, indicating that their team performs very well on both ends of the court when they play compared to when they don't. 
+- The scatterplot below depicts the relationship Offensive Box Plus Minus (OBPM) and Defensive Box Plus Minus (DBPM) have with all-star selections for NBA players of the past two seasons.
+- Offensive/Defensive BPM measures a players impact based on the teams performance while they are on the court (in terms of points) per 100 possessions. This can help determine how valuable a players offensive impact, defensive impact, or both contribute to their all-star status. Players in the top right corner of the scatterplot have high OBPM and DBPM, indicating that their team performs very well on both ends of the court when they play compared to when they don't.
+- As these are calculated per 100 possessions, both can be misleading with a small sample size, so I filtered for only the players that have played at least 30 games.
   
 <img src="https://user-images.githubusercontent.com/108153124/260263141-2b703c40-8012-4b11-9548-208e20d116ba.png" alt="Offensive Box Plus-Minus vs Defensive Box Plus-Minus" width="400" height="500">
 
 Nearly all of the all-stars are on the right side, indicating a positive OBPM is essential to being selected as an all-star. DBPM, on the other hand, seems to be more spread out in terms of positive and negative. It appears most all-stars have a positive DBPM, but I will need to run more tests to know its actual significance. 
 
 #### Offensive Win Shares Per 48 and Defensive Win Shares Per 48
-- The scatterplot below displays how Offensive Win Shares Per 48 Minutes (OWS/48) and Defensive Win Shares Per 48 Minutes (DWS/48) relate to all-star selections for NBA players of the past two seasons. Win shares attribute a portion of a player's team success, accruing over the course of the season. WS/48 calculates a player's win shares per 48 minutes of play.
+- The scatterplot below displays how Offensive Win Shares Per 48 Minutes (OWS/48) and Defensive Win Shares Per 48 Minutes (DWS/48) relate to all-star selections for NBA players since 1980. Win shares attribute a portion of a player's team success, accruing over the course of the season. WS/48 calculates a player's win shares per 48 minutes of play.
 - OWS/48 and DWS/48 measures a players average contribution to the teams success, therefore quantifying the players impact directly with success. Players in the top right corner of the scatterplot have high OWS/48 and DWS/48, indicating that they are responsible for much of their teams offensive and defensive success.
-- This statistic can be easily skewed with a small sample size (imagine a players win shares getting larger because they haven't even played 48 minutes). To remedy this, I filtered for only players who played at least half the season
+- This statistic can be easily skewed with a small sample size (imagine a players win shares getting larger because they haven't even played 48 minutes). To remedy this, I filtered for only players who played at least 30 games.
 
 <img src="https://user-images.githubusercontent.com/108153124/260326903-4c070cac-a651-4bda-a763-82ad1677dc27.png" width="400" height="500">
 
