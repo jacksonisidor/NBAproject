@@ -5,20 +5,20 @@ This repository contains a data science project analyzing NBA data. The project 
 All original data files used are from Sumitro Datta on Kaggle as seen in the 'preprocessing.ipynb' file. The csv files in the 'Data' folder are the outputted files from my preprocessing that are used in all of the analysis and models. 
 
 # Project Structure
-preprocessing.ipynb: 
+#### preprocessing.ipynb: 
 - Jupyter Notebook containing the data preprocessing and cleaning steps.
 
-'visualization' Folder:
+#### 'visualization' Folder:
 - ASG_Factors.md containing visualizations of season statistics and their relationship with all-star selections.
 - HOF_Factors.md containing visualizations of career statistics and their relationship with Hall of Fame status.
 
-careers.csv:
+#### careers.csv:
 - Dataset containing NBA players' career statistics.
 
-modern_seasons.csv: 
+#### modern_seasons.csv: 
 - Dataset containing NBA season statistics (modern era).
 
-seasons.csv: 
+#### seasons.csv: 
 - Dataset containing NBA season statistics (since 1947).
 
 # Coming soon:
