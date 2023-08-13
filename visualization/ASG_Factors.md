@@ -2,7 +2,8 @@
 
 ## Introduction
 Part of this project includes building a model that can accurately predict all-star selections for a given season. To create an effective model, I must determine what factors are most important in a player becoming all-star.
-As a preliminary check, I produced a few visualizations in Tableau to gain insight towards what makes an NBA All-Star. Using this information, I will perform the proper statistical tests to find exact correlations to build an accurate model.
+As a preliminary check, I produced a few visualizations in Tableau to gain insight towards what makes an NBA all-star. Using this information, I will perform the proper statistical tests to find exact correlations to build an accurate model.
+Note: these will include generally more advanced or unexpected statistics because we know the importance of the basic counting stats, like points, rebounds, and assists.  Also, my model attempt to stick to per game statistics as I do not have pre-all-star game statistics. Using full season totals would decrease it's reliability when I obtain first half of the season statistics for the upcoming year. 
 
 ## Visualizations
 
