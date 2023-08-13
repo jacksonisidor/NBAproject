@@ -7,4 +7,4 @@ This project involves constructing predictive models to assess both retired play
 
 - The scatterplot below displays the relationship betwen number of all-star appearances and Hall of Fame status. The count represents the number of all stars an individual player has and the length of the yellow bar represents the percentage of players with that count that is in the Hall of Fame
 - 
-<img src="https://user-images.githubusercontent.com/108153124/260278945-f7453525-5553-4535-b17a-8e66900456f3.png" alt="Usage Percentage vs Minutes Per Game" width="400" height="500">
+<img src="https://user-images.githubusercontent.com/108153124/260278945-f7453525-5553-4535-b17a-8e66900456f3.png" alt="Usage Percentage vs Minutes Per Game" width="400" height="300">
