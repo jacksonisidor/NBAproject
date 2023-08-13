@@ -22,3 +22,7 @@ As a preliminary check, I produced a few visualizations in Tableau to gain insig
   - **Significance:** Offensive/Defensive BPM measures a players impact based on the teams performance while they are on the court (in terms of points). This can help determine how valuable a players offensive impact, defensive impact, or both contribute to their all-star status. 
   - **Insights:** Players in the top right corner of the scatterplot have high OBPM and DBPM, indicating that their team performs very well with them on the court. 
   - **Analysis:** Nearly all of the all-stars are on the right side, indicating a positive OBPM is essential to being selected as an all-star. DBPM, on the other hand, seems to be more spread out in terms of positive and negative. It appears most all-stars have a positive DBPM, but I will need to run more tests to know its actual significance. 
+
+### Offensive Win Shares vs Defensive Win Shares (Scatterplot)
+
+<img src="https://user-images.githubusercontent.com/108153124/260263138-025338d9-0892-4ed4-b6cc-20e6696c82df.png" alt="Usage Percentage vs Minutes Per Game" width="400" height="500">
