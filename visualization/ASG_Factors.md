@@ -9,6 +9,7 @@ As a preliminary check, I produced a few visualizations in Tableau to gain insig
 #### Vorp (Scatterplot)
 - The scatterplot below illustrates the relationship between Value Over Replacement Player (VORP) and all-star status for all NBA players throughout league history. This is one of my favorite statistics and I expect it to be an important factor in predicting all-star games. This metric directly determines a players value added to their team compared to being replaced by another player. The x-axis 'Count', which is basically just each players index. I did this to spread out the data points and make it more clear. The important information is the vertical placement and the color of the points. I filtered for seasons from 1973 and on because that is the year the stastic began tracking.
 - Players higher on the chart have a larger impact relative to the replacement-level. This directly indicates the most valuable players in the NBA, and this is important because you would expect all-stars players to be irreplacable and much better than replacement-level. 
+
 <img src="https://user-images.githubusercontent.com/108153124/260272810-bbcff149-31d9-4805-8c6b-f69615314704.png" alt="Usage Percentage vs Minutes Per Game" width="400" height="500">
 
 As expected,the top of the graph is exclusively all-stars, indicating that VORP should be a strong factor in determining all-stars. 
@@ -54,3 +55,6 @@ As I predicted, both win% and starts appear to have a minimum threshold requirem
 <img src="https://user-images.githubusercontent.com/108153124/260263143-2f9109d5-4b10-4872-b974-96fc57145c25.png" alt="All-Star's Experience Level" width="400" height="500">
 
 Players with 5 years of experience have made the all-star game the most, with the majority being between 3 and 7 years. Despite the clear bell-shaped chart indicating a potential factor, I am hesitant to include it in my model. This is because I do not know if experience itself is truly the determining factor in being an all-star. I would argue it is more likely that this level of experience/age is when players perform the best, and therefore get selected based on that peformance. For example, I expect a player with less experience to make the all-star game if they perform as well as someone older. Basically, I believe including all the other performance metrics negates the need for experience level as a factor.
+
+## Conclusion
+These preliminary visualizations provide valuable insights into the factors that contribute to all-star selections. VORP, usage percentage, minutes per game, offensive and defensive metrics, win percentage, and starts all appear to influence all-star status. This initial analysis will guide further statistical tests evaluating factors to build a robust all-star prediction model.
