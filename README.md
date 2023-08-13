@@ -1,5 +1,5 @@
 # NBA Data Science Project
-##GOAL:
+## GOAL:
 - Predict the next class of NBA Hall of Famers and assign a percent chance of making the Hall of Fame to every active player.
 - Predict the NBA all-stars of any given year based on season statistics. Use the model in February 2024 to predict next seasons all-stars.
 # Overview
