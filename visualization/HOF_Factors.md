@@ -12,12 +12,12 @@ This project involves constructing predictive models to assess both retired play
 #### Total All-Star Selections
 - The stacked bar chart below illustrates the relationship betwen number of all-star appearances and Hall of Fame status. The count represents the number of all stars an individual player has and the length of the yellow bar represents the percentage of players in the Hall of Fame within that count.
 <img src="https://user-images.githubusercontent.com/108153124/260297862-dac55850-b804-4ef0-8376-092bb9be375f.png" width="400" height="400">
-This clearly shows that a higher percentage of players with multiple all-stars making the Hall of Fame. The rate of Hall of Famers is low (below 10%) for players with 1 to 3 all-star appearances, but jumps dramatically to 40% at 4 all-star selections. This rate continues to rise quickly - every player with at leaset 7 all-star games, except for one (Larry Foust), is in the Hall of Fame.
+This strongly indicates a relationship between increasing all-star selections and Hall of Fame status. The rate of Hall of Famers is low (below 10%) for players with 1 to 3 all-star appearances, but jumps dramatically to 40% at 4 all-star selections. This rate continues to rise quickly - every player with at leaset 7 all-star games, except for one (Larry Foust), is in the Hall of Fame.
 
 #### Total MVP Awards
 - The stacked bar chart below displays the percentage of players that are in the Hall of Fame within each count of Most Valuable Player (MVP) awards.
 <img src="https://user-images.githubusercontent.com/108153124/260278946-fa602a2d-c75e-4c0e-a5d2-efd7a93fd721.png" width="400" height="400">
-This shows us something very important - every single player that has one at least 1 MVP, and is eligible, is in the Hall of Fame. This will become very useful in predicting what players are in the Hall of Fame, and what current players have the best chance of making it after retirement.
+This shows us something very important - every single player that has one at least 1 MVP, and is eligible, is in the Hall of Fame. This will become useful in predicting what players are in the Hall of Fame and what current players have the best chance of making it after retirement.
 
 #### Total DPOY Awards
 - The stacked bar chart below represents the percentage of players in the Hall of Fame for each Defensive Player of the Year (DPOY) award recieved.
@@ -34,7 +34,7 @@ I expected longevity and team success to be a huge factor because people debate 
 - This scatterplot depicts the correlation between offensive win shares (OWS) and defensive win shares (DWS), and their relationship with Hall of Fame status. Win shares credits players with a share of their teams success, accumulating throughout their career.
 - OWS and DWS measures a players contribution to the teams success, therefore quantifying the players impact directly with success. Players in the top right corner of the scatterplot have high OWS and DWS, indicating that they are responsible for much of their teams offensive and defensive success.
 <img src="https://user-images.githubusercontent.com/108153124/260278949-4b66adb6-c4b4-435b-9d94-3b8329b2f61f.png" width="400" height="400">
-All of the Hall of Fame appear to have a high total win shares (add up their OWS and DWS), whether its a high OWS and low DWS, vice versa, or a combination of both. This means that total win shares may be a better statistic to predict Hall of Fame status. This is not too surprising, as I found the same results in the ows vs. dws visualization for all-stars.
+All of the Hall of Famers appear to have a high total win shares (add up their OWS and DWS), whether its a high OWS and low DWS, vice versa, or a combination of both. This means that total win shares may be a better statistic to predict Hall of Fame status. This is not too surprising, as I found the same results in the ows/48 vs. dws/48 visualization for all-stars.
 
 ## Conclusion
 This preliminary analysis lays the groundwork for predicting NBA Hall of Fame inductions. By exploring career statistics and visualizing key attributes using Tableau, I have gained initial insights into the factors that contribute to Hall of Fame status. As I move forward, these insights will guide my in-depth statistical analysis to establish accurate correlations between attributes and Hall of Fame induction. This process will enable us to develop effective predictive models for both retired and active players, contributing to a deeper understanding of the criteria behind NBA Hall of Fame honors.
