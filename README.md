@@ -4,6 +4,7 @@
 The primary objectives of this data science project are:
 - Predicting the next class of NBA Hall of Famers and assigning a percentage chance of making the Hall of Fame to each active player.
 - Predicting NBA all-stars for a given year based on their season statistics. The model will be used in February 2024 to predict next season's all-stars.
+- Clustering players into tiers based on career success (superstar down to bust). 
 
 ## Overview
 This repository contains a comprehensive data science project that delves into the analysis of NBA data. The project encompasses various stages of the data science pipeline, including data preprocessing and cleaning using pandas, creating insightful visualizations using Tableau, and implementing advanced regression and machine learning models with scikit-learn.
