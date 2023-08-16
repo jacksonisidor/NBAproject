@@ -6,9 +6,9 @@ The primary objectives of this data science project are:
 - Predicting NBA all-stars for a given year based on their season statistics. The model will be used in February 2024 to predict next season's all-stars.
 - Clustering players into tiers based on career success (superstar down to bust).
 
-I had a few inspirations when deciding on this project. The first comes from Basketball Reference - they have a page on their website titled "Hall of Fame Probability." I remember seeing this when I was younger and being so lost on how they could have managed to come up with these percentages. It opened my eyes to how powerful statistics can be. After studying data science myself, I connected the dots on how they must have created it and it drove me towards making my own up-to-date version with what I believe makes a Hall of Famer.
+My project draws inspiration from various sources, including Basketball Reference's 'Hall of Fame Probability' page, which left young-me intrigued by the power of statistics. After delving into data science myself, I discovered the methodologies behind such calculations, prompting me to create an updated and personalized version.
 
-My inspiration for the all-star predictions mostly comes from the fan voting system. It causes problems every year and theres always intense debate on who got snubbed. In my opinion, it would be better if we could put bias aside and reward players based on statistical output. Hopefully, this model can do just that and be accurate enough to predict the all-stars of any season, potentially followed by was really snubbed each year. 
+My inspiration for the all-star predictions comes from the perennial debate and controversy around the fan voting system. In response, I sought to create a predictive model that goes beyond biases and instead relies on statistical output to identify deserving All-Stars. By utilizing data-driven insights, I hope to offer an accurate prediction of each season's All-Star roster and shed light on potential snubs. 
 
 ## Overview
 This repository contains a comprehensive data science project that delves into the analysis of NBA data. The project encompasses various stages of the data science pipeline, including data preprocessing and cleaning using pandas, creating insightful visualizations using Tableau, and implementing advanced regression and machine learning models with scikit-learn.
@@ -28,11 +28,15 @@ The original data files utilized in this project are sourced from Sumitro Datta'
   - `ASG_Factors.md`: Visualizations showcasing the relationship between season statistics and all-star selections.
   - `HOF_Factors.md`: Visualizations illustrating the link between career statistics and Hall of Fame status.
 
+#### Predictions Folder
+  - 'hof_model.ipynb': A Jupyter Notebook containing the creation of the Hall of Fame predictive model
+  - 'hof_chances_list.csv': A list of active players and their Hall of Fame probability assigned by the model
+
 ## Coming soon
 I am actively working on the following components to provide a more comprehensive analysis:
-- `Regression.ipynb`: A Jupyter Notebook focusing on in-depth regression analysis using scikit-learn.
-- `Predictions.ipynb`: A Jupyter Notebook detailing machine learning predictive models using scikit-learn.
-- `Clustering.ipynb`: A Jupyter Notebook covering machine learning clustering analysis with scikit-learn.
+- `clustering.ipynb`: A Jupyter Notebook covering machine learning clustering analysis with scikit-learn.
+- 'all_star_model.ipynb': A Jupyter Notebook containing the creation of the all-star predictive model
+- 'all_star_snubs.csv': A list of the biggest all-star snubs in the last 5 years.
 
 Stay tuned for more updates as I delve deeper into the exciting world of NBA data analysis
 
