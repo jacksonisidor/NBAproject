@@ -6,7 +6,7 @@ The primary objectives of this data science project are:
 - Predicting NBA all-stars for a given year based on their season statistics. The model will be used in February 2024 to predict next season's all-stars.
 - Clustering players into tiers based on career success (superstar down to bust).
 
-I had a few inspirations when deciding on this project. The first comes from Basketball Reference - they have a page on their website titled "Hall of Fame Probability." I remember seeing this when I was younger and being so lost on how they could have managed to come up with these percentages. It opened up my eyes to how powerful statistics can be. After studying data science myself, I connected the dots on how they must have created it. This drove me towards making my own up-to-date version with what I believe makes a Hall of Famer.
+I had a few inspirations when deciding on this project. The first comes from Basketball Reference - they have a page on their website titled "Hall of Fame Probability." I remember seeing this when I was younger and being so lost on how they could have managed to come up with these percentages. It opened my eyes to how powerful statistics can be. After studying data science myself, I connected the dots on how they must have created it. This drove me towards making my own up-to-date version with what I believe makes a Hall of Famer.
 
 My inspiration for the all-star predictions mostly comes from a hatred for the fan voting system. It causes problems every year and theres always intense debate on who got snubbed. In my opinion, it would be better if we could put bias aside and reward players based on statistical output. Hopefully, this model can do just that, and be accurate enough to identify who was really snubbed each year. 
 
