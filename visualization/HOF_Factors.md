@@ -28,7 +28,7 @@ This shows a steady increase in Hall of Fame percentage for each additional DPOY
 - This scatterplot shows how career games played and win percentage relate to Hall of Fame status.
 - These two statistics can show how relevant longevity and team success is to being inducted into the Hall of Fame.
 <img src="https://user-images.githubusercontent.com/108153124/260278953-8508d31d-3bd6-49f0-bd5e-8c13f221155b.png" width="400" height="400">
-I expected longevity and team success to be a huge factor because people debate it all the time. However, it appears these two factors are not much different for HOFers and non-HOFers. The Hall of Fame points may be a bit further to the right and top, but it is not clear. I believe it still worth testing.
+I expected longevity and team success to be a huge factor because people debate it all the time. However, it appears these two factors are not much different for HOFers and non-HOFers. The Hall of Fame points may be a bit further to the right, but it is not clear. I believe both are still worth testing.
 
 #### Offensive Win Shares and Defensive Win Shares
 - This scatterplot depicts the correlation between offensive win shares (OWS) and defensive win shares (DWS), and their relationship with Hall of Fame status. Win shares credits players with a share of their teams success, accumulating throughout their career.
