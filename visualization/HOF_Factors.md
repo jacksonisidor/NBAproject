@@ -1,7 +1,7 @@
 # Preliminary Analysis of Career Statistics and Hall of Fame Inductions
 
 ## Introduction
-This project involves constructing predictive models to assess both retired players' Hall of Fame eligibility and active players' likelihood of entering the Hall of Fame. To establish an effective model, identifying the key factors influencing a player's induction into the Hall of Fame is crucial. As a preliminary step, I generated visualizations using Tableau to glean insights into the attributes that distinguish NBA Hall of Famers. These insights will guide me into the next step of conducting precise statistical analyses aimed at uncovering correlations necessary for building an accurate predictive model.
+This project involves constructing predictive models to assess both retired players' Hall of Fame eligibility and active players' likelihood of entering the Hall of Fame. To establish an effective model, identifying the key factors influencing a player's induction into the Hall of Fame is crucial. As a preliminary step, I generated visualizations using Tableau to glean insights into the attributes that distinguish NBA Hall of Famers. These insights will guide me into the next step of manipulating the features further and building an accurate predictive model.
 
 #### Notes: 
 - All of these visualizations have been filtered for players eligible for the Hall of Fame, meaning players that played their last season in 2019 or earlier. 
