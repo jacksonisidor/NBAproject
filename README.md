@@ -22,21 +22,22 @@ The original data files utilized in this project are sourced from Sumitro Datta'
   - `careers.csv`: A dataset encompassing NBA players' career statistics.
   - `modern_seasons.csv`: A dataset containing NBA season statistics from the modern era.
   - `seasons.csv`: A dataset comprising NBA season statistics since 1947.
-  - 'References.md': Credit to the sources I used to create the aformentioned datasets
+  - `References.md`: Credit to the sources I used to create the aformentioned datasets
 
 #### visualization Folder:
   - `ASG_Factors.md`: Visualizations showcasing the relationship between season statistics and all-star selections.
   - `HOF_Factors.md`: Visualizations illustrating the link between career statistics and Hall of Fame status.
 
 #### Predictions Folder
-  - 'hof_model.ipynb': A Jupyter Notebook containing the creation of the Hall of Fame predictive model
-  - 'hof_chances_list.csv': A list of active players and their Hall of Fame probability assigned by the model
+  - `hof_model.ipynb`: A Jupyter Notebook containing the creation of the Hall of Fame predictive model
+  - `hof_chances_list.csv`: A list of active players and their Hall of Fame probability assigned by the model
+  - `all_star_model.ipynb`: A Jupyter Notebook containing the creation of the All-Star predictive model
 
 ## Coming soon
 I am actively working on the following components to provide a more comprehensive analysis:
 - `clustering.ipynb`: A Jupyter Notebook covering machine learning clustering analysis with scikit-learn.
-- 'all_star_model.ipynb': A Jupyter Notebook containing the creation of the all-star predictive model
-- 'all_star_snubs.csv': A list of the biggest all-star snubs in the last 5 years.
+- `all_star_model.ipynb`: A Jupyter Notebook containing the creation of the all-star predictive model
+- `all_star_snubs.csv`: A list of the biggest all-star snubs in the last 5 years.
 
 Stay tuned for more updates as I delve deeper into the exciting world of NBA data analysis
 
