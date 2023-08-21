@@ -33,12 +33,4 @@ The original data files utilized in this project are sourced from Sumitro Datta'
   - `hof_chances_list.csv`: A list of active players and their Hall of Fame probability assigned by the model
   - `all_star_model.ipynb`: A Jupyter Notebook containing the creation of the All-Star predictive model
 
-## Coming soon
-I am actively working on the following components to provide a more comprehensive analysis:
-- `clustering.ipynb`: A Jupyter Notebook covering machine learning clustering analysis with scikit-learn.
-- `all_star_model.ipynb`: A Jupyter Notebook containing the creation of the all-star predictive model
-- `all_star_snubs.csv`: A list of the biggest all-star snubs in the last 5 years.
-
-Stay tuned for more updates as I delve deeper into the exciting world of NBA data analysis
-
 
