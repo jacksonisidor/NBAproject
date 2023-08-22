@@ -4,7 +4,7 @@
 The primary objectives of this data science project are:
 - Predicting the next class of NBA Hall of Famers and assigning a percentage chance of making the Hall of Fame to each active player.
 - Predicting NBA all-stars for a given year based on their season statistics. The model will be used in January 2024 to predict next season's all-stars and potentially settle debates over 'snubbed' players
-  
+
 My project draws inspiration from various sources, including Basketball Reference's 'Hall of Fame Probability' page, which left young-me stunned by the power of statistics. After delving into data science myself, I discovered the methodologies behind such calculations, prompting me to create an updated and personalized version.
 
 My inspiration for the all-star predictions comes from the perennial debate and controversy around the fan voting system. In response, I sought to create a predictive model that goes beyond biases and instead relies on statistical output to identify deserving All-Stars. By utilizing data-driven insights, I hope to offer an accurate prediction of each season's All-Star roster and shed light on potential snubs. 
