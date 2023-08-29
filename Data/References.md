@@ -4,9 +4,8 @@
 
 The data for this project was sourced from the "NBA Stats (1947-present)" dataset  by Sumitro Datta on Kaggle. This comprehensive collection of data provides a wealth of NBA, ABA, and BAA statistics spanning from 1947 to the present day. It has played a central role in driving the analysis and insights presented in this project.
 
-- **Dataset Title:** [NBA Stats (1947-present)](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats)
-- **Author:** Sumitro Datta
-- **Kaggle Profile:** [Sumitro Datta](https://www.kaggle.com/sumitrodatta)
+- **Dataset:** [NBA Stats (1947-present)](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats)
+- **Author:** [Sumitro Datta](https://www.kaggle.com/sumitrodatta)
 
 ## Tools and Libraries
 
