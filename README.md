@@ -1,5 +1,7 @@
 # NBA Data Science Project
 
+**NOTE:** First project ever! For a newer basketball-related project with improved skills, stay tuned for a March Madness Predictor coming in 2025.
+
 ## Goal
 The primary objectives of this data science project are:
 - Predicting the next class of NBA Hall of Famers and assigning a percentage chance of making the Hall of Fame to each active player.
