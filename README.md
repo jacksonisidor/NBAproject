@@ -1,6 +1,6 @@
 # NBA Data Science Project
 
-**NOTE:** First project ever! For a newer basketball-related project with improved skills, stay tuned for a March Madness Predictor coming in 2025.
+**NOTE:** First project ever! For a newer basketball-related project with improved skills, stay tuned for a March Madness Predictor coming in March 2025.
 
 ## Goal
 The primary objectives of this data science project are:
